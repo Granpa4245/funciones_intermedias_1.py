@@ -61,7 +61,7 @@ if x == 2:
     iterarDiccionario(cantantes)
 if x == 3:
     
-    iterarDiccionario2("nombre", cantantes)
+    iterarDiccionario2("nombre", cantantes2)
 if x == 4:
 
     imprimirInformacion(ciudades)
